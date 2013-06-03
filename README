@@ -1,0 +1,19 @@
+File explanations
+bithio1.mat %data for first bithiophene graph
+bithio2.mat %data for second bithiophene graph
+bithio3.mat %data for third bithiophene graph
+bithiophene_results(1).zip %contains files of results, explained next
+Bithiophene_results.txt %information displayed in command window after running bithiophene data
+Bithiophene_spectra.xlsx %Excel doc from Linda Petenau containing original data
+Figure1.png %original + fitted first bithiophene graph
+Figure2.png %original + fitted second bithiophene graph
+Figure3.png %original + fitted third bithiophene graph
+bithiophenes.m %add filenames into variable files and run to fit data
+fun.m %part of Dave Yaron's original fitting repo (unused)
+Gauss.m %class file, part of Dave Yaron's original fitting repo (unused)
+Gauss1.m %class file, part of Dave Yaron's original fitting repo, used by spectra.m, allows user to choose number of Gaussians
+join.m %test file for Gauss.m, part of Dave Yaron's original fitting repo (unused)
+join1.m %test file for Gauss1.m, part of Dave Yaron's original fitting repo (unused)
+kate.mat %stores all variables for join1.m (unused)
+license.txt %MATLAB license
+spectra.m %nested functions creating GUI for Gauss1 evaluation
